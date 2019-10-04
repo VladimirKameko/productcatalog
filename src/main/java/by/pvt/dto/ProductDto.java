@@ -6,5 +6,4 @@ public class ProductDto {
     public String name;
     public Long id;
 
-
 }
